@@ -1,4 +1,4 @@
-# Hospitality-Analysis-Dashboard
+# Analysis-Dashboard
 Snap of the dashboard <p> </p>
 ![image](https://github.com/sachin-0502/Hospitality-Analysis-Dashboard/assets/144464445/716d3899-b209-4c7e-b623-152e0801ea86)
 
